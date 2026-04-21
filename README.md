@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jpbaeza15&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/jpbaeza15?tab=followers">
+  <a href="https://github.com/JotapeBz?tab=followers">
     <img src="https://img.shields.io/github/followers/jpbaeza15?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </p>
@@ -24,7 +24,7 @@
   <a href="mailto:jpbaeza15@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/jpbaeza15">
+  <a href="https://github.com/JotapeBz">
     <img src="https://img.shields.io/badge/GitHub-jpbaeza15-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -107,12 +107,12 @@ const jotape = {
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpbaeza15&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbaeza15&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JotapeBz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotapeBz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpbaeza15&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JotapeBz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
