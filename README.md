@@ -31,7 +31,7 @@
 
 ---
 
-<h2 align="center">⚡ 0x01 // WHOAMI</h2>
+<h2 align="center">⚡ WHOAMI</h2>
 
 <pre>
 const jotape = {
@@ -60,7 +60,7 @@ const jotape = {
       </ul>
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/H82wjp90lPC3ZwPPAl/giphy.gif" alt="Developer coding" width="100%" />
+      <img src="https://kr.pinterest.com/06f7e5u7k20acdxhvvl1tgha133oph/gif" alt="Developer coding" width="100%" />
     </td>
   </tr>
 </table>
