@@ -60,7 +60,7 @@ const jotape = {
       </ul>
     </td>
     <td width="45%" align="center">
-      <img src="https://giphy.com/gifs/anime-pixel-fighting-ramBbsu5kGc8AJHd1h" alt="Developer coding" width="100%" />
+      <img src="https://giphy.com/gifs/anime-pixel-fighting-ramBbsu5kGc8AJHd1h" alt="Developer coding" width="150%" />
     </td>
   </tr>
 </table>
